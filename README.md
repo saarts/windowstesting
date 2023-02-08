@@ -8,3 +8,4 @@ Goals:
  - Generate files
  - Use storable settings
  - Move images around on canvas
+ - Manipulate lists of elements
